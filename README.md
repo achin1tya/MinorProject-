@@ -13,11 +13,6 @@ Note follow the steps given on their website for python 3.6 installation as well
 Setup the command line installer or graphical one whichever you prefer
 
 Python installation is also done while installing anaconda
-
-Lets dive into it
-
-1. in the Anaconda menu click the jupyter notebook tab and lets begin with the first program 
-    Introduction to Python for Data Scaience 
     
 Note : always refer to documentation while accesing the ipynotebook (you will understand once you begin)
 
